@@ -7,7 +7,7 @@ In this project, I created a web scraper using Python's urllib module. Here’s 
 3. HTML Parsing: I then use BeautifulSoup to parse the HTML and create a navigable structure.
  ![Screenshot 2024-09-15 174757](https://github.com/user-attachments/assets/73da4236-756c-489b-ab20-3a61bb3fade1)
 
-# [QR Codes with Python] (https://github.com/muhammadkhan2200/QR-Codes-with-Python/tree/main)
+# [Project 2:QR Codes with Python] (https://github.com/muhammadkhan2200/QR-Codes-with-Python/tree/main)
 Project Description: Generating QR Codes with Python This project demonstrates how to generate QR codes using Python. Here's a brief overview: Library Installation: The qrcode library is used, which can be installed via pip install qrcode. Basic Steps:
 
 Import Library: Import the qrcode library.
