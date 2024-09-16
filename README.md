@@ -16,3 +16,15 @@ Import Library: Import the qrcode library.
 3. Customization: Optionally, use the QRCode class to customize the QR code's version, error correction level, box size, and border.
 4. import barcode from barcode import QRCode
 ![Untitled-1](https://github.com/user-attachments/assets/0ad79c41-1bd1-48e4-b10c-00689e829a9e)
+
+#[Project 3: Spelling Correction with Python](https://github.com/muhammadkhan2200/Spelling-Correction-with-Python/tree/main)
+
+I created a Python project for spelling correction, addressing both non-word and real-word errors to enhance text accuracy.
+1. Using TextBlob
+TextBlob is a simple library for natural language processing that includes a spelling correction feature. Here’s how you can use it:
+2. Installation: pip install textblob
+3. Usage:
+![Screenshot 2024-09-15 194353](https://github.com/user-attachments/assets/b0adced4-175a-42cf-8783-f05f9f5e6105)
+
+   
+
