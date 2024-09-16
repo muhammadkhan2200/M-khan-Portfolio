@@ -15,4 +15,4 @@ Import Library: Import the qrcode library.
 2. Save Image: Save the generated QR code as an image file using img. save().
 3. Customization: Optionally, use the QRCode class to customize the QR code's version, error correction level, box size, and border.
 4. import barcode from barcode import QRCode
- ![Screenshot 2024-09-15 180111](https://github.com/user-attachments/assets/ffe3daed-7985-4353-833b-e49721553bae)
+![Untitled-1](https://github.com/user-attachments/assets/0ad79c41-1bd1-48e4-b10c-00689e829a9e)
