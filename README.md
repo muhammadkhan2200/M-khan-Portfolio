@@ -1,7 +1,7 @@
 # M-khan-Portfolio
 Python Portfolio
 
-[Project 1: Three-Dimensional points and lines](https://github.com/muhammadkhan2200/Three-Dimensional-Plotting-in-Python/tree/main)
+# [Project 1: Three-Dimensional points and lines](https://github.com/muhammadkhan2200/Three-Dimensional-Plotting-in-Python/tree/main)
 
 Project Overview:
 This project leverages Python's Matplotlib library to create a variety of three-dimensional plots, demonstrating the library's capabilities in visualizing complex data. The project includes multiple types of 3D plots, each serving to highlight different aspects of data visualization.
@@ -29,7 +29,7 @@ Import Library: Import the qrcode library.
 4. import barcode from barcode import QRCode
 ![Untitled-1](https://github.com/user-attachments/assets/0ad79c41-1bd1-48e4-b10c-00689e829a9e)
 
-#[Project 4: Spelling Correction with Python](https://github.com/muhammadkhan2200/Spelling-Correction-with-Python/tree/main)
+# [Project 4: Spelling Correction with Python](https://github.com/muhammadkhan2200/Spelling-Correction-with-Python/tree/main)
 
 I created a Python project for spelling correction, addressing both non-word and real-word errors to enhance text accuracy.
 1. Using TextBlob
